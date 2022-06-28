@@ -1,9 +1,9 @@
-# Jogo Pong 
+# 
 
 <div align = "center">
-  <img src = "https://user-images.githubusercontent.com/90014122/176258335-a9f9a5d0-299f-4ad2-b07f-b04bf16e17e3.png" witdh = "150px" />
+  <img width="600" alt="Kath is in the Sandbox, Creating" src="https://user-images.githubusercontent.com/90014122/176261587-caa469fc-bf85-45ce-834b-fe0eb72530b9.png">
+  <br>
+  <p>Pong é um jogo eletrônico de esporte de arcade com temática de tênis de mesa, com gráficos bidimensionais</p>
 </div>
-
-<p>Pong é um jogo eletrônico de esporte de arcade com temática de tênis de mesa, com gráficos bidimensionais</p>
 
 <h1>OBJETIVO</h1>
