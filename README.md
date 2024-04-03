@@ -20,6 +20,7 @@
  
 </div>
 <h3>Tecnologias utilizadas</h3>
+
 [site no Git Pages](https://kathleenfs.github.io/Jogo_Pong/)
 <div style="display: inline_block"><br>
   <img align="center" alt="kath-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
